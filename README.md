@@ -1,1 +1,1 @@
-deploy to container testing
+deploy container technology testing
